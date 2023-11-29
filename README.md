@@ -29,3 +29,7 @@ Config:
 
 Put config.txt in the mapped config directory, "bilEffekt" is the chargers maximum output in kW, "battCap" is the car battery capacity in kWh.
 
+Home Assistant Integration:
+
+COMING SOON...
+
