@@ -31,5 +31,5 @@ Put config.txt in the mapped config directory, "bilEffekt" is the chargers maxim
 
 Home Assistant Integration:
 
-COMING SOON...
+GUIDE COMING SOON...
 
