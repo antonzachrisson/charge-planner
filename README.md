@@ -1,7 +1,7 @@
 # charge-planner
-An AI driven electric car charging optimizer for home assistant packaged in a docker file.
+An AI driven electric car charging optimizer for home assistant packaged in a docker container.
 
-The program uses an AI model to predict solar power production based on weather forecasts, the suns altitude/azimuth, etc.
+The program uses a custom AI model to predict solar power production based on weather forecasts, the suns altitude/azimuth, etc.
 The program then combines the predicted production with tomorrows electricity rates, current car battery level, etc to 
 automatically charge the car on a optimized schedule based on price to charge through home assistant.
 The program communicates with home assistant through RESTfulAPI calls on port 5000.
